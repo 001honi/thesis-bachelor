@@ -6,8 +6,8 @@ Bachelor's thesis advised by Prof. Bilge Gunsel (February 2022)
 
 Please send me an e-mail for source code.
 <hr>
-![tracker](tracker.png)
-<br><br>
+<img src="https://github.com/001honi/thesis-bachelor/blob/main/tracker.png" alt="proposed tracker">
+<br>
 <strong>SUMMARY</strong>
 <br>
 Object tracking aims to estimate the location of the target object through video
