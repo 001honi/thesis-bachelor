@@ -45,7 +45,7 @@ In the context of the graduation project, the tracker software is developed by
 integrating the deep network models, trained on Tensorflow and PyTorch libraries,
 into the OpenCV-Python environment. Tracking perforamance has been evaluated on
 VOT-LT (Visual Object Tracking - Long Term) and LASOT (Large-scale Single Object
-Tracking) datasets, which are two commonly used challenging benchmarkig data sets.
+Tracking) datasets, which are two commonly used challenging benchmarking data sets.
 <br><br>
 Long-term person tracking performance is reported on the video sequences, having
 camera angle, exposure, scale, blur and luminance changes, as 79% and 61% in the
